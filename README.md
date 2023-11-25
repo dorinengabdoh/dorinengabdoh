@@ -1,6 +1,6 @@
 
 <!--
-**Dorine Ngabdoh/Dorine Ngabdoh** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**DorineNgabdoh/DorineNgabdoh** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I’m currently working on ...
 - :seedling: I’m currently learning ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      I'm Dorine Ngabdoh
+      I'm DorineNgabdoh
   </h1>
 <div align="left">
   <h1>Programming Skills</h1>
@@ -139,10 +139,10 @@ Here are some ideas to get you started:
   <!-- my stats -->
   ## :fire: My Stats :chart_with_upwards_trend:
  <div align="left">
-<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dorine Ngabdoh&theme=dark&background=000000)](https://git.io/streak-stats) -->
-  [![Noubissi' GitHub stats](https://github-readme-stats.vercel.app/api?username  ## :fire: My Stats :chart_with_upwards_trend:
-  =Dorine Ngabdoh&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorine Ngabdoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DorineNgabdoh&theme=dark&background=000000)](https://git.io/streak-stats) -->
+  [![Dorine' GitHub stats](https://github-readme-stats.vercel.app/api?username  ## :fire: My Stats :chart_with_upwards_trend:
+  =DorineNgabdoh&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorineNgabdoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <!-- my contacts below -->
   <h1>:writing_hand: Contact me: </h1>
