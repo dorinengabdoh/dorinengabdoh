@@ -137,37 +137,20 @@ Here are some ideas to get you started:
     </table>
   </div>
   <!-- my stats -->
- <!--  ## :fire: My Stats :chart_with_upwards_trend: -->
- <!-- <div align="left"> -->
+  ## :fire: My Stats :chart_with_upwards_trend:
+ <div align="left">
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DorineNgabdoh&theme=dark&background=000000)](https://git.io/streak-stats) -->
- <!--  [![Dorine' GitHub stats](https://github-readme-stats.vercel.app/api?username  ## :fire: My Stats :chart_with_upwards_trend:
+  [![Dorine' GitHub stats](https://github-readme-stats.vercel.app/api?username  ## :fire: My Stats :chart_with_upwards_trend:
   =DorineNgabdoh&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorineNgabdoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div> -->
+  </div>
   <!-- my contacts below -->
-  <!-- <h1>:writing_hand: Contact me: </h1>
+  <h1>:writing_hand: Contact me: </h1>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/DorineNgabdoh)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dorine-ngabdoh-86a94a292/)
   [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@ngabdohdorine)
-</div> -->
-
-<!-- my stats -->
-## :fire: My Stats :chart_with_upwards_trend:
-<div align="left">
-<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoubissiViany&theme=dark&background=000000)](https://git.io/streak-stats) -->
- [![Noubissi' GitHub stats](https://github-readme-stats.vercel.app/api?username=NoubissiViany&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoubissiViany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
- <!-- my contacts below -->
- <h1>:writing_hand: Contact me: </h1>
- <div id="header" align="center">
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- </div>
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/GaetanNoubissi)
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/viany-noubissi-54a409236/)
- [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@g696607013)
 </div>
 
